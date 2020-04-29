@@ -1,0 +1,3 @@
+ bayesian_network/breast_cancer_data/breast-cancer-wisconsin.cfg
+ bayesian_network/breast_cancer_data/breast-cancer-wisconsin-400-records-train
+ bayesian_network/breast_cancer_data/breast-cancer-wisconsin-299-records-test

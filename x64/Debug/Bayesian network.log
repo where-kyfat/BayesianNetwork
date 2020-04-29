@@ -1,0 +1,18 @@
+﻿  bayesian.cpp
+  bayesiannetwork.cpp
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(127,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(491,55): warning C4244: +=: преобразование "long double" в "int", возможна потеря данных
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(536,23): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(536,23): warning C4244:         with
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(536,23): warning C4244:         [
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(536,23): warning C4244:             _Ty=int
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(536,23): warning C4244:         ]
+  machinelearning.cpp
+  main.cpp
+  Создание кода...
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(540,21): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(540,21): warning C4244:         with
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(540,21): warning C4244:         [
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(540,21): warning C4244:             _Ty=int
+D:\User\source\BayesianNetwork\bayesian_network\bayesiannetwork.cpp(540,21): warning C4244:         ]
+  Bayesian network.vcxproj -> D:\User\source\BayesianNetwork\x64\Debug\Bayesian network.exe
